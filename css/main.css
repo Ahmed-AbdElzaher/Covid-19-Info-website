@@ -917,14 +917,12 @@ a {
   color: #465675;
 }
 @media (max-width: 993px) {
-  .container-QUESTION p,
-  i {
+  .container-QUESTION p {
     font-size: 0.75rem;
   }
 }
 @media (max-width: 450px) {
-  .container-QUESTION p,
-  i {
+  .container-QUESTION p {
     font-size: 0.5rem;
   }
 }
@@ -990,7 +988,7 @@ a {
 
 }
 .link:hover{
-  color: #2b56f5 !important;c
+  color: #2b56f5 !important;
 }
 .footer i{
   font-size: 30px;
